@@ -8,6 +8,6 @@ st.write(pd.DataFrame({
 }))
 
 from PIL import Image
-image = Image.open('Iris.jpg')
+image = Image.open('Iris')
 
 st.image(image, caption='Iris')

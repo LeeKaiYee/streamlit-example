@@ -8,6 +8,4 @@ st.write(pd.DataFrame({
 }))
 
 from PIL import Image
-image = Image.open('sunrise.jpg')
-
-st.image(image, caption='Sunrise by the mountains')
+st.image(https://miro.medium.com/max/700/1*uo6VfVH87jRjMZWVdwq3Vw.png, caption='Iris')

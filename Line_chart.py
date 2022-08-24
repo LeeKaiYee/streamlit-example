@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-st.header("Line chart")
+st.header("Line chart and Map")
 
 option = st.sidebar.selectbox(
     'Select a mini project',
